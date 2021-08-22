@@ -3,7 +3,7 @@ package problems;
 public class GetFirstAndLastOccurrence {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int arr[] = { 1, 2, 3, 4, 8, 8, 8, 9, 10, 40, 40, 40, 40 };
+		int arr[] = { 1, 2, 3, 4, 8, 8, 8, 9, 10, 40, 40, 40, 40 , 66,66};
 		int n = arr.length;
 		int x = 40;
 		int index = search(arr, x, 0, n);
